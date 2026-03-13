@@ -1,48 +1,30 @@
-# <div align="center">[YOUR_NAME]</div>
+# <div align="center">[Zoern]</div>
 
 <div align="center">
 
-### [YOUR_TAGLINE]
+### [个人成长势]
 
-`[ROLE_1]` | `[ROLE_2]` | `[ROLE_3]`
+`造屎倾向` | `A2A` | `无业`
 
 </div>
 
-<br />
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Focus-[PRIMARY_FOCUS]-111111?style=for-the-badge&labelColor=1a1a1a" />
-  <img src="https://img.shields.io/badge/Base-[CITY_OR_REGION]-1f2937?style=for-the-badge&labelColor=111827" />
-  <img src="https://img.shields.io/badge/Status-[OPEN_TO]-374151?style=for-the-badge&labelColor=111827" />
-</div>
 
 <br />
 
 ## About
 
-> [A_SHORT_HIGH-END_INTRODUCTION_ABOUT_YOU]
+> [前应试教育得势者 / 小网站运营 / FL Studio非订阅用户 / 某985在校大学生 / 人生是低谷 / IMSB / AI最严厉的父亲 / 微信公众号炒作撰稿人 / B站20w+浏览热点视频搬运工] / 独立游戏制作中
 >
-> [SECOND_LINE_WITH_YOUR_STYLE_OR_WORKING_PHILOSOPHY]
+> [*建设中*]
 
 <br />
 
-## Selected Profile
 
-```text
-Name        : [YOUR_NAME]
-Discipline  : [YOUR_DOMAIN]
-Current     : [CURRENT_POSITION_OR_FOCUS]
-Specialty   : [SPECIALTY_KEYWORDS]
-Location    : [LOCATION]
-Contact     : [EMAIL_OR_LINK]
-```
-
-<br />
 
 ## Current Focus
 
-- Building: `[PROJECT_OR_DIRECTION_01]`
-- Exploring: `[TOPIC_OR_TECH_STACK_02]`
+- Building: `【namchieh page】`
+- Exploring: `【godot】`
 - Refining: `[SKILL_OR_CAPABILITY_03]`
 - Writing: `[THOUGHTS_ARTICLES_OR_NOTES]`
 
