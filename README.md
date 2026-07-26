@@ -197,59 +197,6 @@ Godot · Python · JavaScript · TypeScript · Web · Cloudflare · Git · AI-as
 
 ---
 
-## `06 / PERSONAL METRICS`
-
-| Metric | Current reading |
-| :----- | :-------------- |
-| 个人成长势  | 缓慢波动            |
-| 生产力    | 偶发性出现           |
-| 技术债务   | 稳步增长            |
-| 商业化程度  | 接近于零            |
-| 自我怀疑   | 常驻后台            |
-| 项目完成率  | 建设中             |
-| 造屎倾向   | `A2A`           |
-
----
-
-<details>
-<summary><strong>PRODUCTION PIPELINE / 典型生产流程</strong></summary>
-
-<br>
-
-```mermaid
-flowchart LR
-    A[模糊想法] --> B[提示词]
-    B --> C[可运行原型]
-    C --> D{能用吗}
-    D -->|不能| E[重构]
-    E --> F[产生更多问题]
-    F --> B
-    D -->|勉强| G[加入新功能]
-    G --> H[技术债务]
-    H --> E
-    E -. 偶尔 .-> I[独立游戏]
-```
-
-</details>
-
----
-
-<details>
-<summary><strong>ACHIEVEMENTS / 可疑成就</strong></summary>
-
-<br>
-
-<div align="center">
-
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=Zoern&theme=onedark&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=4"
-    alt="GitHub trophies"
-  />
-</a>
-
-</div>
-
 </details>
 
 ---
@@ -308,8 +255,6 @@ Process continues anyway.
 
 ### “I'm half sinner, half victim.”
 
-既是问题的制造者，
-也是问题的承受者。
 
 <br>
 
