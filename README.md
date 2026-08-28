@@ -56,7 +56,6 @@
 
 * 人生是低谷
 * IMSB
-* AI 最严厉的父亲
 * FL Studio 非订阅用户
 * 独立游戏制作中
 
@@ -247,7 +246,7 @@ Process continues anyway.
 
 ---
 
-## `07 / PHILOSOPHY`
+## `PHILOSOPHY`
 
 <div align="center">
 
@@ -258,10 +257,7 @@ Process continues anyway.
 
 <br>
 
-`[ 建设中 / DO NOT EXPECT STABILITY ]`
+`[ 建设中 ]`
 
-<sub>
-Made with questionable decisions, unfinished projects and excessive interaction with AI.
-</sub>
 
 </div>
