@@ -1,38 +1,19 @@
 <div align="center">
 
-<br>
+<img src="./assets/banner.svg" width="100%" alt="ZOERN // Personal Growth Momentum" />
 
-<pre>
-███████╗ ██████╗ ███████╗██████╗ ███╗   ██╗
-╚══███╔╝██╔═══██╗██╔════╝██╔══██╗████╗  ██║
-  ███╔╝ ██║   ██║█████╗  ██████╔╝██╔██╗ ██║
- ███╔╝  ██║   ██║██╔══╝  ██╔══██╗██║╚██╗██║
-███████╗╚██████╔╝███████╗██║  ██║██║ ╚████║
-╚══════╝ ╚═════╝ ╚══════╝╚═╝  ╚═╝╚═╝  ╚═══╝
-             Z O E R N
-</pre>
-
-**个人成长势 · Personal Growth Momentum**
-
-<a href="https://github.com/DenverCoder1/readme-typing-svg">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=2800&pause=1000&color=8B949E&center=true&vCenter=true&width=680&height=38&lines=%E9%80%A0%E5%B1%8E%E5%80%BE%E5%90%91+%7C+A2A+%7C+%E6%97%A0%E4%B8%9A;Independent+game+developer+in+progress;Building+small+websites+and+larger+technical+debt;I'm+half+sinner%2C+half+victim."
-    alt="Typing introduction"
-  />
-</a>
-
-<br>
+<br><br>
 
 ![Status](https://img.shields.io/badge/STATUS-UNDER_CONSTRUCTION-161B22?style=flat-square&labelColor=0D1117)
 ![Protocol](https://img.shields.io/badge/PROTOCOL-A2A-21262D?style=flat-square&labelColor=0D1117)
 ![Employment](https://img.shields.io/badge/EMPLOYMENT-NONE-30363D?style=flat-square&labelColor=0D1117)
 ![Build](https://img.shields.io/badge/LIFE_BUILD-UNSTABLE-484F58?style=flat-square&labelColor=0D1117)
 
-<br>
-
 </div>
 
----
+<br>
+
+<img src="./assets/divider.svg" width="100%" alt="divider" />
 
 ### `01 / MANIFESTO`
 
@@ -65,7 +46,7 @@
 </tr>
 </table>
 
----
+<img src="./assets/divider.svg" width="100%" alt="divider" />
 
 ### `02 / RUNTIME`
 
@@ -90,36 +71,15 @@ release:
   eta:    "Before the heat death of the universe"
 ```
 
----
+<img src="./assets/divider.svg" width="100%" alt="divider" />
 
 ### `03 / WORKBENCH`
 
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
+<div align="center">
+  <img src="./assets/workbench.svg" width="100%" alt="Workbench Projects" />
+</div>
 
-#### `[WIP] PROJECT // UNTITLE_01`
-<sub>`Godot Engine` · `GDScript` · `Indie Game`</sub>
-
-正在构建中的独立游戏项目。从状态机、ECS 架构重构到世界生成，在反复推翻与重建中推进可玩原型。
-
-`STATUS:` **`[ 闭门造车 / ALPHA ]`**
-
-</td>
-<td width="50%" valign="top">
-
-#### `[LIVE] SMALL WEB & EXPERIMENTS`
-<sub>`TypeScript` · `Cloudflare` · `A2A`</sub>
-
-散落在公网边缘的小型站点、自动化工作流与 AI 辅助编程实验产物。持续制造问题，偶尔解决问题。
-
-`STATUS:` **`[ 维持运转 / ACCUMULATING DEBT ]`**
-
-</td>
-</tr>
-</table>
-
----
+<img src="./assets/divider.svg" width="100%" alt="divider" />
 
 ### `04 / TOOLCHAIN`
 
@@ -141,10 +101,34 @@ WORKFLOW         ::  VS Code / Figma / AI-Assisted Programming
 </a>
 </div>
 
----
+<img src="./assets/divider.svg" width="100%" alt="divider" />
+
+### `05 / CONTRIBUTION MATRIX`
+
+<div align="center">
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/himentpear/himentpear/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/himentpear/himentpear/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    width="100%"
+    src="https://raw.githubusercontent.com/himentpear/himentpear/output/github-contribution-grid-snake-dark.svg"
+    alt="Contribution snake animation"
+  />
+</picture>
+
+</div>
+
+<img src="./assets/divider.svg" width="100%" alt="divider" />
 
 <details>
-<summary><code>05 / SYSTEM DIAGNOSTICS</code></summary>
+<summary><code>06 / SYSTEM DIAGNOSTICS</code></summary>
 
 <br>
 
@@ -168,18 +152,14 @@ WORKFLOW         ::  VS Code / Figma / AI-Assisted Programming
 
 </details>
 
----
+<br>
 
 <div align="center">
-
-<br>
 
 *“I'm half sinner, half victim.”*
 
 <br>
 
 `[ 建设中 ]`
-
-<br>
 
 </div>

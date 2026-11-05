@@ -1,0 +1,140 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 240" width="100%" height="100%">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#090C10"/>
+      <stop offset="50%" stop-color="#0D1117"/>
+      <stop offset="100%" stop-color="#161B22"/>
+    </linearGradient>
+
+    <linearGradient id="borderGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#21262D"/>
+      <stop offset="50%" stop-color="#484F58"/>
+      <stop offset="100%" stop-color="#21262D"/>
+    </linearGradient>
+
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M 32 0 L 0 0 0 32" fill="none" stroke="#21262D" stroke-width="0.6" stroke-opacity="0.55"/>
+    </pattern>
+
+    <pattern id="dots" width="16" height="16" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="0.7" fill="#30363D" opacity="0.6"/>
+    </pattern>
+
+    <style>
+      .mono {
+        font-family: 'JetBrains Mono', 'Fira Code', 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace;
+      }
+      .sans {
+        font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', 'Hiragino Sans GB', 'Microsoft YaHei', sans-serif;
+      }
+      .title {
+        font-size: 62px;
+        font-weight: 800;
+        fill: #F0F6FC;
+        letter-spacing: 18px;
+      }
+      .title-ghost {
+        font-size: 62px;
+        font-weight: 800;
+        fill: none;
+        stroke: #30363D;
+        stroke-width: 1;
+        letter-spacing: 18px;
+        opacity: 0.45;
+      }
+      .subtitle {
+        font-size: 13px;
+        font-weight: 500;
+        fill: #8B949E;
+        letter-spacing: 4.5px;
+      }
+      .hud {
+        font-size: 10.5px;
+        fill: #6E7681;
+        letter-spacing: 1.5px;
+      }
+      .hud-accent {
+        font-size: 10.5px;
+        fill: #8B949E;
+        letter-spacing: 1.5px;
+      }
+      .quote {
+        font-size: 12px;
+        fill: #6E7681;
+        letter-spacing: 2px;
+      }
+      .pulse {
+        animation: blink 2.4s infinite ease-in-out;
+      }
+      .cursor {
+        animation: stepBlink 1.1s infinite steps(2, start);
+      }
+      .scanline {
+        animation: scan 8s linear infinite;
+      }
+      @keyframes blink {
+        0%, 100% { opacity: 0.9; }
+        50% { opacity: 0.25; }
+      }
+      @keyframes stepBlink {
+        0%, 100% { opacity: 1; }
+        50% { opacity: 0; }
+      }
+      @keyframes scan {
+        0% { transform: translateY(0px); opacity: 0; }
+        10% { opacity: 0.35; }
+        90% { opacity: 0.35; }
+        100% { transform: translateY(200px); opacity: 0; }
+      }
+    </style>
+  </defs>
+
+  <!-- Outer Card Background -->
+  <rect x="2" y="2" width="876" height="236" rx="8" fill="url(#bg)" stroke="url(#borderGrad)" stroke-width="1.2"/>
+
+  <!-- Subtle Grid & Dot Overlay -->
+  <rect x="2" y="2" width="876" height="236" rx="8" fill="url(#grid)"/>
+  <rect x="2" y="2" width="876" height="236" rx="8" fill="url(#dots)"/>
+
+  <!-- Animated Subtle Scanline -->
+  <line class="scanline" x1="20" y1="20" x2="860" y2="20" stroke="#30363D" stroke-width="1" stroke-dasharray="6 4"/>
+
+  <!-- Corner HUD Brackets -->
+  <!-- Top Left -->
+  <path d="M 18 34 L 18 18 L 34 18" fill="none" stroke="#6E7681" stroke-width="1.5"/>
+  <!-- Top Right -->
+  <path d="M 846 18 L 862 18 L 862 34" fill="none" stroke="#6E7681" stroke-width="1.5"/>
+  <!-- Bottom Left -->
+  <path d="M 18 206 L 18 222 L 34 222" fill="none" stroke="#6E7681" stroke-width="1.5"/>
+  <!-- Bottom Right -->
+  <path d="M 846 222 L 862 222 L 862 206" fill="none" stroke="#6E7681" stroke-width="1.5"/>
+
+  <!-- Top Telemetry Bar -->
+  <circle class="pulse" cx="44" cy="27" r="3.2" fill="#8B949E"/>
+  <text x="55" y="30.5" class="mono hud-accent">SYS.NODE // HIMENTPEAR</text>
+  <line x1="225" y1="27" x2="620" y2="27" stroke="#21262D" stroke-width="1"/>
+  <text x="838" y="30.5" text-anchor="end" class="mono hud">PROTOCOL: A2A · BUILD: UNSTABLE</text>
+
+  <!-- Center Geometric Accent Lines -->
+  <line x1="160" y1="108" x2="265" y2="108" stroke="#30363D" stroke-width="1"/>
+  <rect x="265" y="105.5" width="5" height="5" fill="#484F58"/>
+  <line x1="615" y1="108" x2="720" y2="108" stroke="#30363D" stroke-width="1"/>
+  <rect x="610" y="105.5" width="5" height="5" fill="#484F58"/>
+
+  <!-- Main Title with Subtle Offset Ghost -->
+  <text x="451" y="128" text-anchor="middle" class="mono title-ghost">ZOERN</text>
+  <text x="449" y="126" text-anchor="middle" class="mono title">ZOERN</text>
+
+  <!-- Subtitle -->
+  <text x="442" y="160" text-anchor="middle" class="sans subtitle">个人成长势 · PERSONAL GROWTH MOMENTUM</text>
+
+  <!-- Terminal Prompt Line -->
+  <text x="440" y="186" text-anchor="middle" class="mono quote">
+    &gt; indie_game_dev --mode="a2a" --debt="accumulating"<tspan class="cursor" fill="#F0F6FC">_</tspan>
+  </text>
+
+  <!-- Bottom Telemetry Bar -->
+  <text x="42" y="216" class="mono hud">STATUS: [ 建设中 / PUBLIC_BETA ]</text>
+  <line x1="265" y1="212.5" x2="585" y2="212.5" stroke="#21262D" stroke-width="1"/>
+  <text x="838" y="216" text-anchor="end" class="mono hud">“HALF SINNER, HALF VICTIM.”</text>
+</svg>
