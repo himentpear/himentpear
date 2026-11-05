@@ -1,5 +1,7 @@
 <div align="center">
 
+<br>
+
 <pre>
 ███████╗ ██████╗ ███████╗██████╗ ███╗   ██╗
 ╚══███╔╝██╔═══██╗██╔════╝██╔══██╗████╗  ██║
@@ -10,54 +12,54 @@
              Z O E R N
 </pre>
 
-# `ZOERN`
-
-### 个人成长势 · Personal Growth Momentum
+**个人成长势 · Personal Growth Momentum**
 
 <a href="https://github.com/DenverCoder1/readme-typing-svg">
   <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=2600&pause=900&color=6E7681&center=true&vCenter=true&width=720&height=45&lines=%E9%80%A0%E5%B1%8E%E5%80%BE%E5%90%91+%7C+A2A+%7C+%E6%97%A0%E4%B8%9A;Independent+game+developer+in+progress;Building+small+websites+and+larger+technical+debt;I'm+half+sinner%2C+half+victim"
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=2800&pause=1000&color=8B949E&center=true&vCenter=true&width=680&height=38&lines=%E9%80%A0%E5%B1%8E%E5%80%BE%E5%90%91+%7C+A2A+%7C+%E6%97%A0%E4%B8%9A;Independent+game+developer+in+progress;Building+small+websites+and+larger+technical+debt;I'm+half+sinner%2C+half+victim."
     alt="Typing introduction"
   />
 </a>
 
 <br>
 
-![Status](https://img.shields.io/badge/STATUS-UNDER_CONSTRUCTION-24292F?style=flat-square)
-![Protocol](https://img.shields.io/badge/PROTOCOL-A2A-3A3A3A?style=flat-square)
-![Employment](https://img.shields.io/badge/EMPLOYMENT-NONE-555555?style=flat-square)
-![Build](https://img.shields.io/badge/LIFE_BUILD-UNSTABLE-6E7681?style=flat-square)
+![Status](https://img.shields.io/badge/STATUS-UNDER_CONSTRUCTION-161B22?style=flat-square&labelColor=0D1117)
+![Protocol](https://img.shields.io/badge/PROTOCOL-A2A-21262D?style=flat-square&labelColor=0D1117)
+![Employment](https://img.shields.io/badge/EMPLOYMENT-NONE-30363D?style=flat-square&labelColor=0D1117)
+![Build](https://img.shields.io/badge/LIFE_BUILD-UNSTABLE-484F58?style=flat-square&labelColor=0D1117)
+
+<br>
 
 </div>
 
 ---
 
-## `01 / ABOUT`
+### `01 / MANIFESTO`
 
-> 前应试教育得势者、小网站运营、某 985 在校大学生。
+> 前应试教育得势者、小网站运营、某 985 在校大学生。  
 > 独立游戏制作中，人生仍处于公开测试阶段。
 
-<table>
+<table width="100%">
 <tr>
 <td width="50%" valign="top">
 
-### `IDENTITY`
+**`IDENTITY`**
 
-* 前应试教育得势者
-* 某 985 在校大学生
-* 小网站运营
-* 微信公众号炒作撰稿人
-* B站 20w+ 浏览热点视频搬运工
+- 前应试教育得势者
+- 某 985 在校大学生
+- 小网站运营
+- 微信公众号炒作撰稿人
+- B站 20w+ 浏览热点视频搬运工
 
 </td>
 <td width="50%" valign="top">
 
-### `CURRENT STATE`
+**`CURRENT STATE`**
 
-* 人生是低谷
-* IMSB
-* FL Studio 非订阅用户
-* 独立游戏制作中
+- 人生是低谷
+- IMSB
+- FL Studio 非订阅用户
+- 独立游戏制作中
 
 </td>
 </tr>
@@ -65,17 +67,18 @@
 
 ---
 
-## `02 / CURRENT PROCESS`
+### `02 / RUNTIME`
 
 ```yaml
 user: Zoern
+handle: "@himentpear"
 
 runtime:
   environment: "Unstable"
-  occupation: "Undefined"
-  education: "Still compiling"
+  occupation:  "Undefined"
+  education:   "Still compiling"
 
-current_tasks:
+processes:
   - independent_game_development
   - small_website_operation
   - ai_assisted_programming
@@ -84,124 +87,64 @@ current_tasks:
 
 release:
   status: "Under construction"
-  estimated_date: "Before the heat death of the universe"
+  eta:    "Before the heat death of the universe"
 ```
 
 ---
 
-## `03 / TOOLCHAIN`
+### `03 / WORKBENCH`
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+#### `[WIP] PROJECT // UNTITLE_01`
+<sub>`Godot Engine` · `GDScript` · `Indie Game`</sub>
+
+正在构建中的独立游戏项目。从状态机、ECS 架构重构到世界生成，在反复推翻与重建中推进可玩原型。
+
+`STATUS:` **`[ 闭门造车 / ALPHA ]`**
+
+</td>
+<td width="50%" valign="top">
+
+#### `[LIVE] SMALL WEB & EXPERIMENTS`
+<sub>`TypeScript` · `Cloudflare` · `A2A`</sub>
+
+散落在公网边缘的小型站点、自动化工作流与 AI 辅助编程实验产物。持续制造问题，偶尔解决问题。
+
+`STATUS:` **`[ 维持运转 / ACCUMULATING DEBT ]`**
+
+</td>
+</tr>
+</table>
+
+---
+
+### `04 / TOOLCHAIN`
+
+```text
+ENGINE & AUDIO   ::  Godot Engine / FL Studio (Trial)
+LANGUAGES        ::  Python / TypeScript / JavaScript / GDScript / HTML & CSS
+INFRASTRUCTURE   ::  Cloudflare / Node.js / Git / GitHub
+WORKFLOW         ::  VS Code / Figma / AI-Assisted Programming
+```
 
 <div align="center">
-
+<br>
 <a href="https://github.com/tandpfun/skill-icons">
   <img
-    src="https://skillicons.dev/icons?i=godot,py,js,ts,html,css,nodejs,cloudflare,git,github,vscode,figma&theme=dark&perline=12"
-    alt="Development tools"
+    src="https://skillicons.dev/icons?i=godot,py,ts,js,html,css,nodejs,cloudflare,git,github,vscode,figma&theme=dark&perline=12"
+    height="36"
+    alt="Toolchain"
   />
 </a>
-
-<br><br>
-
-<sub>
-Godot · Python · JavaScript · TypeScript · Web · Cloudflare · Git · AI-assisted development
-</sub>
-
 </div>
-
----
-
-## `04 / ACTIVITY RECORD`
-
-<div align="center">
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://github-readme-stats.vercel.app/api?username=Zoern&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=00000000&title_color=f0f6fc&text_color=8b949e&icon_color=8b949e"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://github-readme-stats.vercel.app/api?username=Zoern&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=00000000&title_color=24292f&text_color=57606a&icon_color=57606a"
-  />
-  <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api?username=Zoern&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=00000000"
-    alt="Zoern's GitHub statistics"
-  />
-</picture>
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Zoern&layout=compact&langs_count=8&hide_border=true&bg_color=00000000&title_color=f0f6fc&text_color=8b949e"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Zoern&layout=compact&langs_count=8&hide_border=true&bg_color=00000000&title_color=24292f&text_color=57606a"
-  />
-  <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zoern&layout=compact&langs_count=8&hide_border=true&bg_color=00000000"
-    alt="Most used languages"
-  />
-</picture>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://github-readme-activity-graph.vercel.app/graph?username=Zoern&bg_color=00000000&color=8b949e&line=6e7681&point=f0f6fc&area=true&area_color=30363d&hide_border=true"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://github-readme-activity-graph.vercel.app/graph?username=Zoern&bg_color=00000000&color=57606a&line=57606a&point=24292f&area=true&area_color=d0d7de&hide_border=true"
-  />
-  <img
-    width="100%"
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Zoern&theme=github-compact&hide_border=true&area=true"
-    alt="GitHub activity graph"
-  />
-</picture>
-
-</div>
-
----
-
-## `05 / CONTRIBUTION FEED`
-
-<div align="center">
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/Zoern/Zoern/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/Zoern/Zoern/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    width="100%"
-    src="https://raw.githubusercontent.com/Zoern/Zoern/output/github-contribution-grid-snake.svg"
-    alt="Contribution snake animation"
-  />
-</picture>
-
-</div>
-
----
-
-</details>
 
 ---
 
 <details>
-<summary><strong>SYSTEM DIAGNOSTICS / 系统诊断</strong></summary>
+<summary><code>05 / SYSTEM DIAGNOSTICS</code></summary>
 
 <br>
 
@@ -220,44 +163,23 @@ Godot · Python · JavaScript · TypeScript · Web · Cloudflare · Git · AI-as
 [ERR ] Production environment unstable
 [ERR ] Long-term roadmap contains placeholders
 
-Process continues anyway.
+> Process continues anyway.
 ```
 
 </details>
 
 ---
 
-<details>
-<summary><strong>OPEN-SOURCE MODULES / 使用的开源组件</strong></summary>
-
-<br>
-
-| Module                                                                                 | Function    |
-| :------------------------------------------------------------------------------------- | :---------- |
-| [Readme Typing SVG](https://github.com/DenverCoder1/readme-typing-svg)                 | 动态打字标题      |
-| [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats)              | GitHub 数据卡片 |
-| [GitHub Activity Graph](https://github.com/Ashutosh00710/github-readme-activity-graph) | 提交活动曲线      |
-| [Skill Icons](https://github.com/tandpfun/skill-icons)                                 | 技术栈图标       |
-| [GitHub Profile Trophy](https://github.com/ryo-ma/github-profile-trophy)               | 成就展示        |
-| [Shields.io](https://github.com/badges/shields)                                        | 状态徽章        |
-| [Platane/snk](https://github.com/Platane/snk)                                          | 贡献蛇动画       |
-
-</details>
-
----
-
-## `PHILOSOPHY`
-
 <div align="center">
 
 <br>
 
-### “I'm half sinner, half victim.”
-
+*“I'm half sinner, half victim.”*
 
 <br>
 
 `[ 建设中 ]`
 
+<br>
 
 </div>
